@@ -8,7 +8,8 @@ users = [
     {"id": 2, "name": "Jane Smith", "email": "jane@example.com"},
     {
     "id": 3,"name":"anil","email":"anil@example.com"
-  }
+  },
+  {"id": 4,"name":"suresh","email":"suresh@example.com"}
 ]
 
 # GET all users
